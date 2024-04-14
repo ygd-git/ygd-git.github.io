@@ -1,0 +1,2 @@
+(window.webpackJsonp_react16=window.webpackJsonp_react16||[]).push([[3],{162:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a);n.default=function(){return r.a.createElement("h2",{className:"app-nav-item",style:{borderColor:"green"}},"About")}}}]);
+//# sourceMappingURL=3.79296755.chunk.js.map
